@@ -1,0 +1,29 @@
+.wrapper{
+    padding-top: 10%;
+    max-height: 100vh;
+    max-width:50vh;
+    align-items: center;
+    justify-content: center;
+    padding-left:38%;
+    
+   
+}
+.head{
+    font-size:30px;
+    padding-bottom:20%;
+    color: black;
+}
+.optionsss select options{
+    padding-bottom:50%;
+    justify-content: center;
+    
+}
+.heading{
+    font-size: xx-large;
+    text-align: center;
+    color:rgb(255, 230, 0);
+    text-decoration: dotted;
+    background-color:black;
+    background-size: cover;
+}
+
